@@ -5,4 +5,11 @@ body{
 h3{
 text-align: center
 }
-.primero-titulo
+.primero-titulo{
+
+    color: black(14, 1, 71);
+    text-align: left;
+    background-color: azure(255, 255, 255);
+    margin: 20px;
+    padding-left: 10px;
+}
